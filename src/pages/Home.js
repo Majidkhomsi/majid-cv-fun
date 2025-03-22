@@ -23,7 +23,7 @@ const Home = () => {
               strings: [
                 "Bienvenue sur MON CV FUN ! 🚀",
                 "Data, IA & Sécurité 🔥",
-                "🎯 Recherche de stage de 4 à 6 mois en Data / IA / Cloud"
+                " Recherche de stage de 4 à 6 mois en Data / IA / Cloud"
               ],
               autoStart: true,
               loop: true,
